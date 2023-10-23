@@ -1,4 +1,4 @@
-# Issue Redressal System
+# CommAid: Rapid Assistance Web Portal
 
 This is a web app built to address the needs of people who have issues and need immediate help. Our web app provides a simple way for customers to hire freelancers and organizations to resolve their issues. There is also an option to add government issues or redirect issues to government.
 
